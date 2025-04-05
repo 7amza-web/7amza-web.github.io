@@ -90,3 +90,11 @@ footer {
   text-decoration: none;
   font-weight: bold;
 }
+.comparaison ul {
+  list-style: none;
+  padding: 0;
+}
+.comparaison li {
+  margin: 1em 0;
+  font-size: 1.1em;
+}
