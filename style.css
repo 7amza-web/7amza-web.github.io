@@ -54,3 +54,39 @@ footer {
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
+.ong-links ul {
+  list-style: none;
+  padding: 0;
+}
+.ong-links li {
+  margin: 0.5em 0;
+}
+.ong-links a {
+  color: #e74c3c;
+  text-decoration: none;
+  font-weight: bold;
+}
+.ong-links ul {
+  list-style: none;
+  padding: 0;
+}
+.ong-links li {
+  margin: 0.5em 0;
+}
+.ong-links a {
+  color: #e74c3c;
+  text-decoration: none;
+  font-weight: bold;
+}
+.ong-links ul {
+  list-style: none;
+  padding: 0;
+}
+.ong-links li {
+  margin: 0.5em 0;
+}
+.ong-links a {
+  color: #e74c3c;
+  text-decoration: none;
+  font-weight: bold;
+}
