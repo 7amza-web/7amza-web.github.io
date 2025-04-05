@@ -1,31 +1,45 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Galerie - Humanité Avant Les Armes</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    .gallery-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 1em;
+      margin-top: 2em;
+    }
+    .gallery-grid img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+      border-radius: 10px;
+    }
+  </style>
 </head>
 <body>
   <header>
     <h1>Galerie</h1>
-    <p>Images sur les thèmes de la guerre, de la famine et de la paix</p>
+    <p>Images puissantes de la guerre, de la faim, et de l’espoir.</p>
   </header>
 
   <div class="container">
+    <p>Voici quelques images qui témoignent de la réalité de la guerre, de la famine et de l’urgence humanitaire dans le monde.</p>
     <div class="gallery-grid">
-      <img src="https://via.placeholder.com/300x200?text=Image+1" alt="Image 1">
-      <img src="https://via.placeholder.com/300x200?text=Image+2" alt="Image 2">
-      <img src="https://via.placeholder.com/300x200?text=Image+3" alt="Image 3">
-      <img src="https://via.placeholder.com/300x200?text=Image+4" alt="Image 4">
-      <!-- Tu peux continuer à ajouter d'autres images ici -->
+      <img src="https://via.placeholder.com/300x200?text=Palestine" alt="Image Palestine" />
+      <img src="https://via.placeholder.com/300x200?text=Ukraine" alt="Image Ukraine" />
+      <img src="https://via.placeholder.com/300x200?text=Afrique" alt="Image Afrique" />
+      <img src="https://via.placeholder.com/300x200?text=Guerre" alt="Image Guerre" />
+      <img src="https://via.placeholder.com/300x200?text=Famine" alt="Image Famine" />
+      <img src="https://via.placeholder.com/300x200?text=Espoir" alt="Image Espoir" />
     </div>
   </div>
 
   <footer>
-    <p>Par Le Fondateur <strong>HAMZA</strong> — 
-      <a href="https://www.facebook.com/hamza.maayoufi.92" target="_blank" style="color: #fff;">Facebook</a>
-    </p>
+    <p>Par Le Fondateur <strong>HAMZA</strong> — <a href="https://www.facebook.com/hamza.maayoufi.92" target="_blank" style="color: #fff;">Facebook</a></p>
   </footer>
 </body>
 </html>
