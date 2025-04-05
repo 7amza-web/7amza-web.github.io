@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://7amza-web.github.io/index.html</loc>
+  </url>
+  <url>
+    <loc>https://7amza-web.github.io/vision.html</loc>
+  </url>
+  <url>
+    <loc>https://7amza-web.github.io/temoignages.html</loc>
+  </url>
+  <url>
+    <loc>https://7amza-web.github.io/galerie.html</loc>
+  </url>
+  <url>
+    <loc>https://7amza-web.github.io/engager.html</loc>
+  </url>
+  <url>
+    <loc>https://7amza-web.github.io/actualites.html</loc>
+  </url>
+  <url>
+    <loc>https://7amza-web.github.io/blog.html</loc>
+  </url>
+</urlset>
